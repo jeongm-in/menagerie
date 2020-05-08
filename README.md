@@ -7,6 +7,7 @@ Menagerie of my last 2 years.
 ## Stacks
 - AWS S3 & CloudFront
 - Hugo 
+- [Hugo Coder theme](https://github.com/luizdepra/hugo-coder/)
 
 ## Usage 
 0. Install [Hugo](https://gohugo.io/getting-started/quick-start/)
