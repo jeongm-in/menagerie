@@ -78,7 +78,7 @@ canonifyurls = true
            [[languages.en.menu.main]]
             name = "CV"
             weight = 5
-            url = "https://jeongm.in"
+            url = "https://jeongm.in/files/Jeong_Min_Lim_Resume.pdf"
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list
