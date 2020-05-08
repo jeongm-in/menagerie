@@ -1,0 +1,23 @@
+.information-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.information-title {
+    font-size: 17px;
+}
+
+.information-time {
+    color: #777;
+}
+
+.item-margin {
+    margin-bottom: 10px;
+}
+
+.information-detail {
+    font-size: 15px;
+}

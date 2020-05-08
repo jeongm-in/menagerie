@@ -1,0 +1,18 @@
+{{ define "title" }} {{ .Title }} · {{ .Site.Title }} {{ end }} {{ define "content" }}
+<section class="container post">
+    <article>
+        <header>
+            <h1 class="title">Projects</h1>
+        </header>
+    </article>
+
+    <article>
+        <h5>
+            Washington Univeristy in St. Louis
+        </h5>
+        <div>
+            {{range $.Site.Data.academics.degrees.info}} {{ partial "information.html" . }} {{end}}
+        </div>
+    </article>
+</section>
+{{ end }}

@@ -1,0 +1,85 @@
+- title: "jeongm.in"
+  when: "05/2020"
+  stack:
+  - "Hugo"
+  - "AWS S3"
+  - "AWS CloudFront"
+  description: "Personal portfolio website"
+  
+- title: "Neverlan CTF 2020 Writeup"
+  when: "02/2020"
+  stack:
+  - "reveal.js"
+  link: "https://jeongm-in.github.io/neverlan-2020-writeup/#/title-slide"
+  description: "Writeup for challenges I solved in Neverlan CTF 2020"
+
+- title: "Webmark for FireFox"
+  when: "12/2019"
+  stack: 
+  - "React"
+  - "Typescript"
+  link: "https://chrome.google.com/webstore/detail/webmark/lffdekoedjmjgjgnimmgpbcignenpeif"
+  description: "WebMark but ported to FireFox"
+
+- title: "Webmark"
+  when: "08/2019"
+  stack: 
+  - "React"
+  - "Typescript"
+  link: "https://chrome.google.com/webstore/detail/webmark/lffdekoedjmjgjgnimmgpbcignenpeif"
+  description: "Advanced bookmark manager for read later lists"
+
+- title: "Spring4"
+  when: "12/2019"
+  stack:
+  - "Swift"
+  - "Firebase"
+  description: "iOS application for personal finance management. CSE 438 final project"
+
+- title: "RecallScan"
+  when: "09/2019"
+  stack:
+    - "Swift"
+    - "OpenCV"
+    - "Flask"
+  link: "https://devpost.com/software/recallscan"
+  description: "iOS barcode scanner application for rapidly searching recent FDA recalled items. Submitted to University of Pennsylvania Hackathon"
+
+- title: "limsave"
+  when: "01/2019"
+  stack: 
+  - "C++"
+  link: "https://github.com/jeongm-in/limsave"
+  description: "C++ port of Windows 10 Spotlight Crawler"
+
+- title: "Windows 10 Spotlight Crawler"
+  when: 01/2019 
+  stack: 
+  - "Python"
+  link: "https://github.com/jeongm-in/Windows10-Spotlight-Crawler"
+  description: "Script to save Windows 10 lockscreen spotlight images"
+
+- title: "Year in Pixels"
+  when: "01/2019"
+  stack:
+    - "React"
+    - "Firebase"
+  link: "https://github.com/jeongm-in/Year-In-Pixels"
+  description: "Micro journal service for logging daily moods"
+
+- title: "Lunar Date Converter"
+  when: "08/2019"
+  stack:
+    - "Python"
+    - "QT"
+  link: "https://github.com/jeongm-in/project-bits"
+  description: "mini tool to convert lunar dates to solar calendar"
+
+- title: "cellTrack"
+  when: "06/2018"
+  stack:
+    - "OpenCV"
+    - "QT"
+    - "Python"
+  link: "https://github.com/jeongm-in/CV-projects"
+  description: "GUI tool to analyze cell movement video to detect cancer cells"

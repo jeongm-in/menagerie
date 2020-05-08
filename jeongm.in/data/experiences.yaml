@@ -1,0 +1,19 @@
+works:
+- title: "Pegasystems"
+  info:
+    - "Software Developer Intern": "05/2020 - "
+
+- title: "Teaching Assistant"
+  info:
+    -  "CSE 523: System Security": "01/2020 - 05/2020"
+    -  "CSE 330: Rapid Prototype Development and Creative Programming": "01/2019 - 05/2020"
+
+- title: "National Material Supply Co., LLC"
+  info:
+    - "Lead Software Developer Intern": "06/2019 - 08/2020"
+  detail: "Built a WooCommerce compatible plugin to streamline order management and request for quotation"
+
+- title: "Third Army of Republic of Korea"
+  info:
+    - "Sergeant": "01/2016 - 10/2018"    
+  detail: "Served as the Army interpreter at Aviation Branch"
