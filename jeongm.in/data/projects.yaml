@@ -5,7 +5,7 @@
   - "AWS S3"
   - "AWS CloudFront"
   description: "Personal portfolio website"
-  
+
 - title: "Neverlan CTF 2020 Writeup"
   when: "02/2020"
   stack:
@@ -18,7 +18,7 @@
   stack: 
   - "React"
   - "Typescript"
-  link: "https://chrome.google.com/webstore/detail/webmark/lffdekoedjmjgjgnimmgpbcignenpeif"
+  link: ""
   description: "WebMark but ported to FireFox"
 
 - title: "Webmark"
