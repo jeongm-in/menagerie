@@ -2,7 +2,7 @@ node_modules
 .vscode
 
 # Hugo default output directory
-/public
+jeongm.in/public
 
 ## OS Files
 # Windows
