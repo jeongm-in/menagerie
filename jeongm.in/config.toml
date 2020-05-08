@@ -1,4 +1,4 @@
-baseurl = "http://jeongm.in"
+baseurl = "https://jeongm.in"
 title = "Jeong Min Lim"
 
 theme = "hugo-coder"
@@ -85,4 +85,3 @@ disqusShortname = "yourdiscussshortname"
             name = "CV"
             weight = 5
             url = "https://jeongm.in"
-
