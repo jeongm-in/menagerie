@@ -7,12 +7,7 @@
     </article>
 
     <article>
-        <h5>
-            Washington Univeristy in St. Louis
-        </h5>
-        <div>
-            {{range $.Site.Data.academics.degrees.info}} {{ partial "information.html" . }} {{end}}
-        </div>
+        {{range $.Site.Data.projects}} {{ partial "project-card.html" . }} {{end}}
     </article>
 </section>
 {{ end }}

@@ -1,0 +1,23 @@
+.project-card {
+    background-color: #EEE;
+    margin-bottom: 20px;
+    padding: 9px 20px;
+}
+
+.project-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.project-title {
+    font-size: 20px;
+}
+
+.project-when {}
+
+.project-stack {}
+
+.project-link {}
+
+.project-description {}
