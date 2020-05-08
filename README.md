@@ -3,4 +3,5 @@
 ## Stacks
 - AWS S3 
 - AWS Cloudfront 
-- Jekyll 
+- AWS ACM (for SSL)
+- Hugo 
