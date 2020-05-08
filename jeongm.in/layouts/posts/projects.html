@@ -1,5 +1,27 @@
 {{ define "title" }} {{ .Title }} · {{ .Site.Title }} {{ end }} {{ define "content" }}
 <section class="container post">
+
+    <article>
+        <header>
+            <h1 class="title">Skills</h1>
+        </header>
+        <article>
+            <h5>
+                Programming Languages
+            </h5>
+            <p>
+                {{delimit .Site.Data.skills.Programming ", "}}
+            </p>
+            <h5>
+                Frameworks and Tools
+            </h5>
+            <p>
+                {{delimit .Site.Data.skills.Frameworks ", "}}
+            </p>
+        </article>
+    </article>
+
+
     <article>
         <header>
             <h1 class="title">Projects</h1>
