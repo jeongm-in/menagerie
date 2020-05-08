@@ -1,13 +1,13 @@
 Programming:
 - Java
 - C++
-- C
 - Python
-- x86-64
-- PHP
-- MATLAB
 - JavaScript
+- PHP
+- C
+- x86-64
 - Swift
+- MATLAB
 
 Frameworks:
 - AWS
@@ -19,3 +19,5 @@ Frameworks:
 - Azure
 - OpenCV
 - Hugo
+- Immunity Debugger
+- IDA Pro

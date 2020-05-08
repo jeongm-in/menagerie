@@ -76,7 +76,7 @@
     - "Python"
     - "QT"
   link: "https://github.com/jeongm-in/project-bits"
-  description: "mini tool to convert lunar dates to solar calendar"
+  description: "Mini tool to convert lunar dates to solar calendar"
 
 - title: "cellTrack"
   when: "06/2018"
