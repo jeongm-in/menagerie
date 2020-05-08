@@ -1,0 +1,23 @@
+<div class="project-card">
+    <div class="project-line">
+        <div class="project-title">
+            <b>{{.title}}</b>
+        </div>
+        <div class="project-when">
+            {{.when}}
+        </div>
+    </div>
+    <div class="project-line">
+        <div class="project-stack">
+            Stack: {{delimit .stack ", "}}
+
+        </div>
+        <div class="project-link">
+            {{if .link}}
+            <a href="{{ .link }}"><i class="fas fa-link"></i></a> {{end}}
+        </div>
+    </div>
+    <div class="project-description">
+        {{.description}}
+    </div>
+</div>
