@@ -38,7 +38,7 @@ canonifyurls = true
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["css/information.css"]
+    custom_css = ["css/information.css", "css/project-card.css"]
 
     # Custom JS
     custom_js = []
