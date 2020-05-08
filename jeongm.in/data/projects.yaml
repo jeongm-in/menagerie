@@ -1,3 +1,10 @@
+- title: "monopit.ch"
+  when: "05/2020"
+  stack:
+    - "Hugo"
+    - "Github Pages"
+  description: "Personal blog"
+
 - title: "jeongm.in"
   when: "05/2020"
   stack:
