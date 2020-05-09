@@ -31,13 +31,6 @@
   description: "WebMark, ported to FireFox"
   
 
-- title: "Webmark"
-  when: "08/2019"
-  stack: 
-  - "React"
-  - "Typescript"
-  link: "https://chrome.google.com/webstore/detail/webmark/lffdekoedjmjgjgnimmgpbcignenpeif"
-  description: "Advanced bookmark manager for read-later lists"
 
 - title: "Spring4"
   when: "12/2019"
@@ -54,6 +47,14 @@
     - "Flask"
   link: "https://devpost.com/software/recallscan"
   description: "iOS barcode scanner application for rapidly searching recent FDA recalled items. Submitted to University of Pennsylvania Hackathon"
+
+- title: "Webmark"
+  when: "08/2019"
+  stack: 
+  - "React"
+  - "Typescript"
+  link: "https://chrome.google.com/webstore/detail/webmark/lffdekoedjmjgjgnimmgpbcignenpeif"
+  description: "Advanced bookmark manager for read-later lists"
 
 - title: "limsave"
   when: "01/2019"
